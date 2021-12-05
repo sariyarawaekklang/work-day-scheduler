@@ -1,5 +1,7 @@
 # Work Day Scheduler
 
+In this assignment, I created a work day planner. A user can add, delete, and save tasks for a work day (9am-5pm). The scheduler is color coded for the user to know if a task/time has passed, is present, or is in the upcoming future. The user will also be able to leave and return to the scheduler without their tasks lost.
+
 ## User Story
 AS AN employee with a busy schedule
 </br>
@@ -39,6 +41,13 @@ THEN the saved events persist
 * Deployment
 * Application Quality
 * Repository Quality
+
+## Built With
+* HTML
+* CSS
+* JavaScript
+* Moment.js
+* jQuery
 
 ## Screenshot
 <img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/92960373/144767548-44544c22-8b1c-43f5-8f6f-04c804588749.png">
